@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is node.js static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liufengxiang/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liufengxiang/node/issues"
+  },
+  "homepage": "https://github.com/liufengxiang/node#readme",
+  "dependencies": {
+    "handlebars": "^4.4.3"
+  }
+}
