@@ -10,7 +10,7 @@
 </head>
 <body>
 {{#each files}}
-    <a href="{{}}">{{this}}</a>
+    <a href="{{../dir}}/{{this}}">{{this}}</a>
 {{/each}}
 </body>
 </html>
