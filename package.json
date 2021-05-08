@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/liufengxiang/node#readme",
   "dependencies": {
-    "handlebars": "^4.4.3"
+    "handlebars": "^4.7.7"
   }
 }
